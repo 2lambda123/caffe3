@@ -2,7 +2,7 @@ repo_name: 2lambda123/caffe3
 report_id: b306d16e44e6a3f3929faafa44123b28
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T07:56:34+00:00'
+timestamp: '2024-02-29T19:19:43+00:00'
 requested_by: daisyden
 provider: github
 branch: DAWN_Bench
@@ -77,7 +77,7 @@ tools:
   last_updated_by: Evan Shelhamer
   last_updated_on: 2014-10-11 07:25:27.000000000 Z
 - name: LevelDB
-  description: 'An open-source on-disk key-value store '
+  description: An open-source on-disk key-value store
   website_url: https://github.com/google/leveldb
   license: BSD-3-Clause
   open_source: true
@@ -90,7 +90,7 @@ tools:
   last_updated_by: Evan Shelhamer
   last_updated_on: 2014-02-11 08:41:01.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
